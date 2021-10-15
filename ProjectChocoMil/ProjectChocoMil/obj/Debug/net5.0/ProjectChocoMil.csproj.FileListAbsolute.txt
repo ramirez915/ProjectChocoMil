@@ -38,3 +38,4 @@ C:\Users\josea\source\repos\ProjectChocoMil\ProjectChocoMil\ProjectChocoMil\obj\
 C:\Users\josea\source\repos\ProjectChocoMil\ProjectChocoMil\ProjectChocoMil\obj\Debug\net5.0\ProjectChocoMil.pdb
 C:\Users\josea\source\repos\ProjectChocoMil\ProjectChocoMil\ProjectChocoMil\obj\Debug\net5.0\ProjectChocoMil.genruntimeconfig.cache
 C:\Users\josea\source\repos\ProjectChocoMil\ProjectChocoMil\ProjectChocoMil\obj\Debug\net5.0\ProjectChocoMil.csproj.CopyComplete
+C:\Users\josea\source\repos\ProjectChocoMil\ProjectChocoMil\ProjectChocoMil\obj\Debug\net5.0\Razor\Pages\Resume.cshtml.g.cs

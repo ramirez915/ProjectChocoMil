@@ -1,0 +1,21 @@
+﻿@page
+@model ProjectChocoMil.Pages.ResumeModel
+@{
+    ViewData["Title"] = "Resume";
+}
+
+<link rel="stylesheet" href="~/css/StyleSheet.css" />
+
+
+<h1>@System.DateTime.Now</h1>
+
+@if (System.DateTime.Now.Hour < 20)
+{
+    <body class="purpleBackground">
+    </body>
+}
+else
+{
+    <body class="greenBackground">
+    </body>
+}
